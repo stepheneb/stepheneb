@@ -13,7 +13,7 @@ Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeac
 1. [Learning something new can make all the difference](https://learnmaketeachshare.org/education/2018/11/09/learning-something-new.html) _(learning)_.
 2. [Imagining what could be](https://learnmaketeachshare.org/creating%20with%20software/2018/09/15/imagining-what-could-be.html) _(programming)_.
 3. [A hybrid guitar-dulcimer-mandolin](https://learnmaketeachshare.org/making%20instruments/2018/09/30/dinalin.html) _(experimental luthiery)_.
-4. [Making nose strips for people sewing masks](https://learnmaketeachshare.org/better%20masks/2020/04/21/making-nose-strips.for-people-sewing-masks.html) _(gave away 29,000 in five months)_.
+4. [Making nose strips for people sewing masks](https://learnmaketeachshare.org/better%20masks/2020/04/21/making-nose-strips.for-people-sewing-masks.html) _(gave away over 29,000 in five months)_.
 
 Over 200 contributions to [open source projects](https://stepheneb.github.io/open-source-contributions.html).
 
@@ -31,4 +31,4 @@ _Recent projects using Java and Rails are in private repositories. See [Art & Lo
 
 ![Stephen's GitHub stats](https://github-readme-stats-psi-six-71.vercel.app/api/top-langs/?username=stepheneb&count_private=true&&langs_count=10&layout=compact)
 
-_There are some very large Rails codebases that are not showing up here because the repositories appear to have been deleted._
+_There are some very large older Rails codebases that are not showing up here because the repositories appear to have been deleted._
