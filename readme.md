@@ -8,7 +8,7 @@ A longer [About](https://stepheneb.github.io/) page.
 
 [Art & Logic](https://stepheneb.github.io/artandlogic.html): work I've doing recently as a consultant.
 
-Articles: [learnmaketeachshare.org](https://learnmaketeachshare.org/) — here are four I think are especially worth sharing.
+Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeachshare.org). Here are four I think are especially worth sharing.
 
 - [Learning something new can make all the difference](https://learnmaketeachshare.org/education/2018/11/09/learning-something-new.html) _(learning)_.
 - [Imagining what could be](https://learnmaketeachshare.org/creating%20with%20software/2018/09/15/imagining-what-could-be.html) _(programming)_.
@@ -23,7 +23,7 @@ Highlights of skills:
 - Raspberry Pi and Arduino software and hardware development.
 - Ruby, JavaScript, Python ... 
 - MySQL, Postgesql, Redis ...
-- AWS
+- AWS and a bit with Heroku, Vercel, Netlify
 
 _Recent projects using Java and Rails are in private repositories. See [Art & Logic](https://stepheneb.github.io/artandlogic.html) for descriptions and screenshots._
 
@@ -31,3 +31,4 @@ _Recent projects using Java and Rails are in private repositories. See [Art & Lo
 
 ![Stephen's GitHub stats](https://github-readme-stats-psi-six-71.vercel.app/api/top-langs/?username=stepheneb&count_private=true&&langs_count=10&layout=compact)
 
+_There are some very large Rails codebases that are not showing up here because the repositories appear to have been deleted._
