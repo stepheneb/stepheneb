@@ -25,10 +25,11 @@ Highlights of skills:
 - MySQL, Postgesql, Redis ...
 - AWS and a bit with Heroku, Vercel, Netlify
 
-_Recent projects using Java and Rails are in private repositories. See [Art & Logic](https://stepheneb.github.io/artandlogic.html) for descriptions and screenshots._
-
-![Stephen's GitHub stats](https://github-readme-stats-psi-six-71.vercel.app/api?username=stepheneb&count_private=true&show_icons=true)
+![Stephen's GitHub stats](https://github-readme-stats-psi-six-71.vercel.app/api?username=stepheneb&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Stephen's GitHub stats](https://github-readme-stats-psi-six-71.vercel.app/api/top-langs/?username=stepheneb&count_private=true&&langs_count=10&layout=compact)
 
-_There are some very large older Rails codebases that are not showing up here because the repositories appear to have been deleted._
+> _**Note**: recent projects using Java and Rails are in private repositories.
+See [Art & Logic](https://stepheneb.github.io/artandlogic.html) for descriptions
+and screenshots. Also there are some very large older Rails codebases that are
+not showing up here because the repositories appear to have been deleted._
