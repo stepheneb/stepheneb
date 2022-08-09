@@ -8,10 +8,13 @@ A longer [About](https://stepheneb.github.io/) page.
 
 [Art & Logic](https://stepheneb.github.io/artandlogic.html): work I've doing recently as a consultant.
 
-Blog: [learnmaketeachshare.org](https://learnmaketeachshare.org/). Here are two I think are especially worth sharing.
+Blog: [learnmaketeachshare.org](https://learnmaketeachshare.org/). Here are three that I think are especially worth sharing.
 
 - [Learning something new can make all the difference](https://learnmaketeachshare.org/education/2018/11/09/learning-something-new.html) _(learning)_.
 - [Imagining what could be](https://learnmaketeachshare.org/creating%20with%20software/2018/09/15/imagining-what-could-be.html) _(programming)_.
+- [A hybrid guitar-dulcimer-mandolin](https://learnmaketeachshare.org/making%20instruments/2018/09/30/dinalin.html) _(experimental luthiery)_.
+
+
 
 Over 200 contributions to [open source projects](https://stepheneb.github.io/open-source-contributions.html).
 
