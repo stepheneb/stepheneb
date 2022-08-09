@@ -2,11 +2,11 @@
 
 <h3 align="center">Be curious and kind whenever possible!</h3>
 
-A longer [About](https://stepheneb.github.io/) page.
+[Art & Logic](https://stepheneb.github.io/artandlogic.html): recent consulting projects.
 
 [Resume](https://stepheneb.github.io/resume.html) that's probably way too long.
 
-[Art & Logic](https://stepheneb.github.io/artandlogic.html): work I've doing recently as a consultant.
+A longer (and older) [About](https://stepheneb.github.io/) page.
 
 Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeachshare.org). Here are four I think are especially worth sharing.
 
