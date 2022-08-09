@@ -18,7 +18,7 @@ Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeac
 
 Over 200 contributions to [open source projects](https://stepheneb.github.io/open-source-contributions.html).
 
-Highlights of skills:
+Highlights of skills (_see [resume](https://stepheneb.github.io/resume.html) for a much longer list_).
 
 - Web, desktop, and mobile application development.
 - Raspberry Pi and Arduino software and hardware development.
