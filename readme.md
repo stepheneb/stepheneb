@@ -15,8 +15,6 @@ Articles: [learnmaketeachshare.org](https://learnmaketeachshare.org/) — here a
 - [A hybrid guitar-dulcimer-mandolin](https://learnmaketeachshare.org/making%20instruments/2018/09/30/dinalin.html) _(experimental luthiery)_.
 - [Making nose strips for people sewing masks](https://learnmaketeachshare.org/better%20masks/2020/04/21/making-nose-strips.for-people-sewing-masks.html) _(gave away 29,000 in five months)_.
 
-
-
 Over 200 contributions to [open source projects](https://stepheneb.github.io/open-source-contributions.html).
 
 Highlights of skills:
@@ -29,6 +27,7 @@ Highlights of skills:
 
 _Recent projects using Java and Rails are in private repositories. See [Art & Logic](https://stepheneb.github.io/artandlogic.html) for descriptions and screenshots._
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepheneb&count_private=true&layout=compact" alt="stepheneb" /></p>
+![Stephen's GitHub stats](https://github-readme-stats-psi-six-71.vercel.app/api?username=stepheneb&count_private=true&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stepheneb&count_private=true&show_icons=true" alt="stepheneb" /></p>
+![Stephen's GitHub stats](https://github-readme-stats-psi-six-71.vercel.app/api/top-langs/?username=stepheneb&count_private=true&&langs_count=10&layout=compact)
+
