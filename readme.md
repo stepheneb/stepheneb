@@ -8,12 +8,13 @@
 
 A longer (and older) [About](https://stepheneb.github.io/) page.
 
-Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeachshare.org). Here are four I think are especially worth sharing.
+Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeachshare.org). Here are five I think are especially worth sharing.
 
 1. [Learning something new can make all the difference](https://learnmaketeachshare.org/education/2018/11/09/learning-something-new.html) _(learning)_.
 2. [Imagining what could be](https://learnmaketeachshare.org/creating%20with%20software/2018/09/15/imagining-what-could-be.html) _(programming)_.
 3. [A hybrid guitar-dulcimer-mandolin](https://learnmaketeachshare.org/making%20instruments/2018/09/30/dinalin.html) _(experimental luthiery)_.
 4. [Making nose strips for people sewing masks](https://learnmaketeachshare.org/better%20masks/2020/04/21/making-nose-strips.for-people-sewing-masks.html) _(gave away over 29,000 in five months)_.
+5. [Shiitake inoculation parties](https://learnmaketeachshare.org/growing%20mushrooms/2018/08/27/shiitake-inocoluation-parties.html) _(learning together)_.
 
 Over 200 contributions to [open source projects](https://stepheneb.github.io/open-source-contributions.html).
 
