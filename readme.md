@@ -8,7 +8,7 @@ A longer [About](https://stepheneb.github.io/) page.
 
 [Art & Logic](https://stepheneb.github.io/artandlogic.html): work I've doing recently as a consultant.
 
-Blog: [learnmaketeachshare.org](https://learnmaketeachshare.org/). Tech and non-tech articles I think are worth sharing.
+Blog: [learnmaketeachshare.org](https://learnmaketeachshare.org/). Here are two I think are especially worth sharing.
 
 - [Learning something new can make all the difference](https://learnmaketeachshare.org/education/2018/11/09/learning-something-new.html) _(learning)_.
 - [Imagining what could be](https://learnmaketeachshare.org/creating%20with%20software/2018/09/15/imagining-what-could-be.html) _(programming)_.
@@ -23,6 +23,7 @@ Highlights of skills:
 - MySQL, Postgesql, Redis ...
 - AWS
 
+_Recent projects using Java and Rails are in private repositories. See [Art & Logic](https://stepheneb.github.io/artandlogic.html) for descriptions and screenshots._
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepheneb&count_private=true&layout=compact" alt="stepheneb" /></p>
 
