@@ -1,11 +1,10 @@
-<h2 align="center">Stephen Bannasch</h2>
+<h3 align="center">Be curious and kind whenever possible.</h3>
 
-<h3 align="center">Be curious and kind whenever possible!</h3>
+#
 
 [Art & Logic](https://stepheneb.github.io/artandlogic.html): recent consulting projects.
 
 [Resume](https://stepheneb.github.io/resume.html) that's probably way too long.
-
 A longer (and older) [About](https://stepheneb.github.io/) page.
 
 Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeachshare.org). Here are five I think are especially worth sharing.
