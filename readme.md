@@ -17,7 +17,9 @@ Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeac
 
 Experiments pushing JavaScript performance
 
-- [JavaScript computational model and visualization: 50x performance improvement](https://stepheneb.github.io/a2d-versions/?model=1), _20220818 update: Chrome: 124x, Safari: 128x, Firefox:  131x_
+- [JavaScript computational model and visualization: 50x performance improvement](https://stepheneb.github.io/a2d-versions/?model=1) [^avalanche]
+
+[^avalanche]: _20220818 speedup measurements update: Chrome: 124x, Safari: 128x, Firefox:  131x_
 
 Over 200 contributions to [open source projects](https://stepheneb.github.io/open-source-contributions.html).
 
