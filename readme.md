@@ -7,6 +7,12 @@
 [Resume](https://stepheneb.github.io/resume.html) that's probably way too long.
 A longer (and older) [About](https://stepheneb.github.io/) page.
 
+Experiments pushing JavaScript performance
+
+- [JavaScript computational model and visualization: 50x performance improvement](https://stepheneb.github.io/a2d-versions/?model=1)
+
+  _20220818 update: Chrome: 124x, Safari: 128x, Firefox:  131x_
+
 Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeachshare.org). Here are five I think are especially worth sharing.
 
 1. [Learning something new can make all the difference](https://learnmaketeachshare.org/education/2018/11/09/learning-something-new.html) _(learning)_.
