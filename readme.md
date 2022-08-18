@@ -7,12 +7,6 @@
 [Resume](https://stepheneb.github.io/resume.html) that's probably way too long.
 A longer (and older) [About](https://stepheneb.github.io/) page.
 
-Experiments pushing JavaScript performance
-
-- [JavaScript computational model and visualization: 50x performance improvement](https://stepheneb.github.io/a2d-versions/?model=1)
-
-  _20220818 update: Chrome: 124x, Safari: 128x, Firefox:  131x_
-
 Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeachshare.org). Here are five I think are especially worth sharing.
 
 1. [Learning something new can make all the difference](https://learnmaketeachshare.org/education/2018/11/09/learning-something-new.html) _(learning)_.
@@ -21,15 +15,22 @@ Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeac
 4. [Making nose strips for people sewing masks](https://learnmaketeachshare.org/better%20masks/2020/04/21/making-nose-strips.for-people-sewing-masks.html) _(gave away over 29,000 in five months)_.
 5. [Shiitake inoculation parties](https://learnmaketeachshare.org/growing%20mushrooms/2018/08/27/shiitake-inocoluation-parties.html) _(learning together)_.
 
+Experiments pushing JavaScript performance
+
+- [JavaScript computational model and visualization: 50x performance improvement](https://stepheneb.github.io/a2d-versions/?model=1)
+
+  _20220818 update: Chrome: 124x, Safari: 128x, Firefox:  131x_
+
 Over 200 contributions to [open source projects](https://stepheneb.github.io/open-source-contributions.html).
 
 Highlights of skills (_see [resume](https://stepheneb.github.io/resume.html) for a much longer list_).
 
-- Web, desktop, and mobile application development.
-- Raspberry Pi and Arduino software and hardware development.
+- Web, desktop, and mobile application development
+- Raspberry Pi and Arduino software and hardware development
+- Sensors, analog and digital design
 - Ruby, JavaScript, Python ... 
 - MySQL, Postgesql, Redis ...
-- AWS and a bit with Heroku, Vercel, Netlify
+- Automated deployment to AWS and a bit with Heroku, Vercel, Netlify
 
 ![Stephen's GitHub stats](https://github-readme-stats-psi-six-71.vercel.app/api?username=stepheneb&count_private=true&show_icons=true&include_all_commits=true)
 
