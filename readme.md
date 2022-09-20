@@ -15,6 +15,8 @@ Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeac
 4. [Making nose strips for people sewing masks](https://learnmaketeachshare.org/better%20masks/2020/04/21/making-nose-strips.for-people-sewing-masks.html) _(gave away over 29,000 in five months)_.
 5. [Shiitake inoculation parties](https://learnmaketeachshare.org/growing%20mushrooms/2018/08/27/shiitake-inocoluation-parties.html) _(learning together)_.
 
+[Elm](https://elm-lang.org/) is a purely functional reactive language that compiles directly to JavaScript. Learning Elm was wonderfuly mind-warping! To dig in a bit deeper I created an implementation of the 2048 game: [stepheneb.github.io/elm-2048](https://stepheneb.github.io/elm-2048/). This really deserves its own article.
+
 Experiments pushing JavaScript performance
 
 - [JavaScript computational model and visualization: 50x performance improvement](https://stepheneb.github.io/a2d-versions/?model=1) [^avalanche]
