@@ -20,7 +20,7 @@ Occasionally I write articles at [learnmaketeachshare.org](https://learnmaketeac
 Experiments pushing JavaScript performance
 
 - [JavaScript computational model and visualization: 50x performance improvement](https://stepheneb.github.io/a2d-versions/?model=1) [^avalanche]
-- [2D molecular and thermodynamic modeling and visualization](https://learnmaketeachshare.org/creating%20with%20software/2018/09/15/imagining-what-could-be.html) (_article: Imagining what could be_)
+- [2D molecular and thermodynamic modeling and visualization](https://learnmaketeachshare.org/creating%20with%20software/2018/09/15/imagining-what-could-be.html)
 
 [^avalanche]: _20220818 speedup measurements update: Chrome: 124x, Safari: 128x, Firefox:  131x_
 
@@ -31,7 +31,8 @@ Highlights of skills (_see [resume](https://stepheneb.github.io/resume.html) for
 - Web, desktop, and mobile application development
 - Raspberry Pi and Arduino software and hardware development
 - Sensors, analog and digital design
-- Ruby, JavaScript, Python ... 
+- Ruby, JavaScript, Python ...
+- Rails, Electron ...
 - MySQL, Postgesql, Redis ...
 - Automated deployment to AWS and a bit with Heroku, Vercel, Netlify
 
@@ -44,4 +45,7 @@ See [Art & Logic](https://stepheneb.github.io/artandlogic.html) for descriptions
 and screenshots. Also there are some very large older Rails codebases that are
 not showing up here because the repositories appear to have been deleted._
 
-<a rel="me" href="https://counter.social/@stepheneb">CounterSocial</a>
+<a rel="me" href="https://ruby.social/@stepheneb" style="display:none">Mastodon</a>
+
+<a rel="me" href="https://counter.social/@stepheneb" style="display:none">CounterSocial</a>
+
