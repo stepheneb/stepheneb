@@ -44,8 +44,3 @@ Highlights of skills (_see [resume](https://stepheneb.github.io/resume.html) for
 See [Art & Logic](https://stepheneb.github.io/artandlogic.html) for descriptions
 and screenshots. Also there are some very large older Rails codebases that are
 not showing up here because the repositories appear to have been deleted._
-
-<a rel="me" href="https://ruby.social/@stepheneb" style="display:none">Mastodon</a>
-
-<a rel="me" href="https://counter.social/@stepheneb" style="display:none">CounterSocial</a>
-
