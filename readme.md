@@ -2,7 +2,7 @@
 
 #
 
-[Art & Logic](https://stepheneb.github.io/artandlogic.html): recent consulting projects.
+[Imagination & Logic](https://stepheneb.github.io/imaginationandlogic.html): recent consulting projects.
 
 [Resume](https://stepheneb.github.io/resume.html) that's probably way too long.
 A longer (and older) [About](https://stepheneb.github.io/) page.
@@ -36,11 +36,11 @@ Highlights of skills (_see [resume](https://stepheneb.github.io/resume.html) for
 - MySQL, Postgesql, Redis ...
 - Automated deployment to AWS and a bit with Heroku, Vercel, Netlify
 
-![Stephen's GitHub stats](https://github-readme-stats-psi-six-71.vercel.app/api?username=stepheneb&count_private=true&show_icons=true&include_all_commits=true)
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepheneb&count_private=true&show_icons=true&include_all_commits=true)
 
-![Stephen's GitHub stats](https://github-readme-stats-psi-six-71.vercel.app/api/top-langs/?username=stepheneb&count_private=true&&langs_count=10&layout=compact)
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stepheneb&count_private=true&&langs_count=10&layout=compact)
 
 > _**Note**: recent projects using Java and Rails are in private repositories.
-See [Art & Logic](https://stepheneb.github.io/artandlogic.html) for descriptions
+See [Imagination & Logic](https://stepheneb.github.io/imaginationandlogic.html) for descriptions
 and screenshots. Also there are some very large older Rails codebases that are
 not showing up here because the repositories appear to have been deleted._
